@@ -168,12 +168,20 @@ img {
   width: 100%;
   margin: 0 auto;
 }
-.nav {
+nav {
   width: 100%;
   display: flex;
   justify-content: space-between;
-  margin: 10px 0;
+  margin-top: 15px;
+  padding-bottom: 15px;
   align-items: center;
+  border-bottom: 1px dashed #C0C0C0;
+}
+nav a {
+  text-decoration: none;
+  color: #212529;
+  margin-right: 20px;
+  font-size: 1.8rem;
 }
 .footer {
   width: 100%;
