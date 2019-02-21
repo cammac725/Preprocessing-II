@@ -13,6 +13,7 @@
 @eastern-blue: #17A2B8;
 @sandy-beach: #FFEBCD;
 @atoll: #0A6F75;
+@bondi-blue: #0095B6
 
 .bordered() {
   border-bottom: 2px dashed @navigation-border;
@@ -29,3 +30,17 @@
   padding: 8px 20px;
   text-align: center;
 }
+
+.button-mobile() {
+  background: @bondi-blue;
+  border-radius: 10px;
+  width: 100%;
+  color: white;
+  font-size: 1.5rem;
+  padding: 10px 20px;
+  text-align: center;
+}
+
+// mobile styles
+
+@mobile: (max-width: 500px);
