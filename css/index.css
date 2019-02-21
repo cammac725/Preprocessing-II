@@ -151,7 +151,7 @@ h2 {
   padding-bottom: 10px;
 }
 h4 {
-  font-size: 2.5rem;
+  font-size: 2.2rem;
   padding-bottom: 10px;
 }
 p {
@@ -252,4 +252,13 @@ nav a {
 .home .content-pick .destination {
   width: 30%;
   margin-bottom: 30px;
+}
+.home .content-pick .btn {
+  background: #20745C;
+  border-radius: 10px;
+  width: 90%;
+  color: white;
+  font-size: 1.4rem;
+  padding: 8px 20px;
+  text-align: center;
 }
