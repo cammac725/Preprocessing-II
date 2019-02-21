@@ -356,3 +356,14 @@ nav a {
   padding: 8px 20px;
   text-align: center;
 }
+@media (max-width: 500px) {
+  .home .content-pick .btn {
+    background: #0095B6;
+    border-radius: 10px;
+    width: 100%;
+    color: white;
+    font-size: 1.5rem;
+    padding: 10px 20px;
+    text-align: center;
+  }
+}
