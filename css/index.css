@@ -250,11 +250,11 @@ nav a {
   justify-content: space-between;
 }
 .home .content-pick .destination {
-  width: 30%;
+  width: 28%;
   margin-bottom: 30px;
 }
 .home .content-pick .btn {
-  background: #20745C;
+  background: #0A6F75;
   border-radius: 10px;
   width: 90%;
   color: white;
