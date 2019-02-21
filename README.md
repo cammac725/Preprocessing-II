@@ -8,17 +8,17 @@ Fun Bus is a travel agency looking for some help on their website.  They want a 
 * [x] Clone the forked project into a directory on your machine
 * [x] Create a new branch `git checkout -b firstname-lastname`
 * [x] Make a small change on your `firstname-lastname` branch (add your name to readme)
-* [ ] Git add, commit, and push `firstname-lastname` branch to GitHub
-* [ ] Add PM as collaborator/reviewer
-* [ ] Create a Pull Request from `firstname-lastname` to `master`
+* [x] Git add, commit, and push `firstname-lastname` branch to GitHub
+* [x] Add PM as collaborator/reviewer
+* [x] Create a Pull Request from `firstname-lastname` to `master`
 
 
 ## Task 2: Set up your preprocessor
-* [ ] Verify that you have LESS installed correctly by running `lessc -v` in your terminal, if you don't get a version message back, reach out to your project manager for help.
-* [ ] Open your terminal and navigate to your preprocessing project by using the `cd` command
-* [ ] Once in your project's root folder, run the following command `less-watch-compiler less css index.less`
-* [ ] Verify your compiler is working correctly by changing the `background-color` on the `html` selector to `red` in your `index.less` file.
-* [ ] Once you see the red screen, you can delete that style and you're ready to start on the next task
+* [x] Verify that you have LESS installed correctly by running `lessc -v` in your terminal, if you don't get a version message back, reach out to your project manager for help.
+* [x] Open your terminal and navigate to your preprocessing project by using the `cd` command
+* [x] Once in your project's root folder, run the following command `less-watch-compiler less css index.less`
+* [x] Verify your compiler is working correctly by changing the `background-color` on the `html` selector to `red` in your `index.less` file.
+* [x] Once you see the red screen, you can delete that style and you're ready to start on the next task
 
 ## Task 3: Import LESS Files
 
