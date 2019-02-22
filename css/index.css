@@ -330,6 +330,7 @@ nav a {
   border-top: 2px dashed #C0C0C0;
   display: flex;
   justify-content: space-between;
+  border-bottom: 2px dashed #C0C0C0;
 }
 @media (max-width: 500px) {
   .home .content-pick {
@@ -366,4 +367,28 @@ nav a {
     padding: 10px 20px;
     text-align: center;
   }
+}
+.home .package-picker {
+  width: 80%;
+  margin: 25px 10%;
+}
+.home .package-picker h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.home .package-picker form {
+  width: 80%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-around;
+}
+.home .package-picker form input {
+  margin-bottom: 15px;
+  padding: 8px 0;
+}
+.home .package-picker form .package {
+  font-size: 1.6rem;
+}
+.home .package-picker form .package input {
+  margin-bottom: 30px;
 }
